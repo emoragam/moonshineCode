@@ -30,7 +30,7 @@
         "core-js": "2.6.5",
         "firebase": "^5.9.0",
         "jquery": "^3.4.0",
-        "moment": "2.24.0",
+        "moment": "2.29.2",
         "net": "^1.0.2",
         "ng-jhipster": "0.9.1",
         "ng2-currency-mask": "^5.3.1",
